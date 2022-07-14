@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Amar Singh",
+      "mobile": "09876543210",
+      "email": "design@himalayanitsolutions.com",
+      "Password": "dssd",
+      "id": 1
+    },
+    {
+      "name": "harjinder singh",
+      "mobile": "897654231210",
+      "email": "harjinder@gmail.com",
+      "Password": "876543210",
+      "id": 2
+    },
+    {
+      "name": "Satnam singh",
+      "mobile": "9876543210",
+      "email": "satnam@gmail.com",
+      "Password": "9876543210",
+      "id": 3
+    }
+  ]
+}
